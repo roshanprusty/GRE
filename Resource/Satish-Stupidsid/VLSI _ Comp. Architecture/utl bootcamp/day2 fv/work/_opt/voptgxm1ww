@@ -1,0 +1,144 @@
+m255
+K3
+13
+cModel Technology
+dD:\
+T_opt
+Z0 V@b<PDoD?Al9]]Gi58LSg^3
+Z1 04 3 4 work top fast 0
+Z2 =1-bc5ff4668e00-5174423d-1a4-a0c
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 OE;O;6.4c;39
+T_opt1
+Z5 VL?aLdg3=iMBEHReBVM@4M3
+Z6 04 10 4 work comparator fast 0
+Z7 04 7 4 work counter fast 0
+Z8 04 13 4 work counter_behav fast 0
+Z9 04 10 4 work counter_tb fast 0
+Z10 04 4 4 work stim fast 0
+Z11 04 4 4 work t_ff fast 0
+Z12 04 7 4 work t_ff_tb fast 0
+R1
+Z13 =1-bc5ff4668e00-51743e44-32d-b68
+R3
+R4
+vcomparator
+Z14 IQCGgQ<LiEGm0GKSkh3K8c0
+Z15 VbXORab^?m?WaIjZa9><z<0
+Z16 dC:\Users\Administrator\Desktop
+Z17 w1366571158
+Z18 8C:/Users/Administrator/Desktop/comparator.v
+Z19 FC:/Users/Administrator/Desktop/comparator.v
+L0 1
+Z20 OE;L;6.4c;39
+r1
+31
+Z21 !s102 -nocovercells
+Z22 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z23 !s100 >[Q[9>J;^82<Z3b2nGSX71
+!s85 0
+vcounter
+Z24 Ik22i6m1ecRh`<@:JhNCIl3
+Z25 VUH>J044kiOEa8OR0P013?3
+R16
+Z26 w1366570195
+Z27 8C:/Users/Administrator/Desktop/counter .v
+Z28 FC:/Users/Administrator/Desktop/counter .v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z29 !s100 K@]9LD3l@F34B7zWCjBKR0
+!s85 0
+vcounter_behav
+Z30 Ie<fS@1oG<1ezVdi?VgBK_1
+Z31 VXn<4mzFN6kT6:S1z8;gI@0
+R16
+Z32 w1366570709
+Z33 8C:/Users/Administrator/Desktop/count_behav.v
+Z34 FC:/Users/Administrator/Desktop/count_behav.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z35 !s100 X30PN?JNA><l>:OOAI9PF3
+!s85 0
+vcounter_tb
+Z36 I;mJEQfl[T[]L8SJj0akll1
+Z37 VN6X[[7nWg]oz4[ZCKXDXe0
+R16
+Z38 w1366570071
+Z39 8C:/Users/Administrator/Desktop/counter_tb.v
+Z40 FC:/Users/Administrator/Desktop/counter_tb.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z41 !s100 aFa@oimfg60BB>`UIe;]l3
+!s85 0
+vstim
+Z42 IjXz=3IjAQL:M51jYZ5Lkf0
+Z43 V9AeT5ZzTD:;d3BL>[UAaC0
+R16
+Z44 w1366572019
+Z45 8C:/Users/Administrator/Desktop/stim_gen.v
+Z46 FC:/Users/Administrator/Desktop/stim_gen.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z47 !s100 oXhN68Jm;]cL2iC_fm8?C2
+!s85 0
+vt_ff
+Z48 IToU:189CH6=E<P>JML_U<1
+Z49 V0Wk[A9:K[]d4`UYj]fVN22
+R16
+Z50 w1366568582
+Z51 8C:/Users/Administrator/Desktop/t_ff.v
+Z52 FC:/Users/Administrator/Desktop/t_ff.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z53 !s100 KSLgzQ:09bN3[?KZ1_XNF2
+!s85 0
+vt_ff_tb
+Z54 I<d5fR_JgjaY]E0=nDH?3O0
+Z55 VJS>KL0Y<VX4MUaiJ^4Pn`2
+R16
+Z56 w1366569154
+Z57 8C:/Users/Administrator/Desktop/t_ff_tb.v
+Z58 FC:/Users/Administrator/Desktop/t_ff_tb.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z59 !s100 :NHK9XcfTX;ld_7[WZ5^Q2
+!s85 0
+vtop
+Z60 I2A6G2@8QaVk3eb7>:Y_YF3
+Z61 VXN9UB@zYTikzQb[kj_>=<3
+R16
+Z62 w1366573622
+Z63 8C:/Users/Administrator/Desktop/top.v
+Z64 FC:/Users/Administrator/Desktop/top.v
+L0 1
+R20
+r1
+31
+R21
+R22
+Z65 !s100 D@0KWD9ElEZAg=73;bMi83
+!s85 0

@@ -1,0 +1,13 @@
+module t_ff(clk,t,reset,q);
+input clk,t,reset;
+output q;
+reg q;
+always@ (posedge clk or posedge reset)
+begin
+  if (reset)
+    q<=0;
+else if (t)
+   q<=~q;
+else q<=q;
+end
+endmodule

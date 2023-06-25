@@ -1,0 +1,54 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\questasim_6.4c\examples
+T_opt
+Z1 V_U><0fQa4O45cB`5jV6?P1
+Z2 04 9 4 work sandwitch fast 0
+Z3 =1-bc5ff4668e00-517453c3-110-a24
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 OE;O;6.4c;39
+T_opt1
+Z6 VPQ^UW@R3?0b8TY?^US?Wf3
+Z7 04 2 4 work tb fast 0
+Z8 =1-bc5ff4668e00-51745434-c8-67c
+R4
+R5
+T_opt2
+Z9 Vic]4]4A]InzCUEIUKO>jk1
+R2
+R7
+Z10 =1-bc5ff4668e00-5174551c-7e-94c
+R4
+R5
+vsandwitch
+Z11 I^B1kA@kVBn[zGkHm]nLNR0
+Z12 VYg;O]zoLJ>:7Kkd5;L8]_1
+Z13 dC:\Users\Administrator\Desktop
+Z14 w1364339780
+Z15 8C:/Users/Administrator/Desktop/Day2_lab2_code coverage/sandwitch.v
+Z16 FC:/Users/Administrator/Desktop/Day2_lab2_code coverage/sandwitch.v
+L0 1
+Z17 OE;L;6.4c;39
+r1
+31
+Z18 o-work work -nocovercells -cover sbcet3 -L mtiAvm -L mtiOvm -L mtiUPF
+Z19 !s102 -nocovercells -cover sbcet3
+Z20 !s100 TJ4QO7W`i^VVXz>dK?lJn3
+!s85 0
+vtb
+Z21 IZ4:BEd>AJUobHIRN4B6Mz0
+Z22 VV@Xn<HnSRM[I5c1?BH]3a3
+R13
+Z23 w1364648314
+Z24 8C:/Users/Administrator/Desktop/Day2_lab2_code coverage/sandwitch_tb.v
+Z25 FC:/Users/Administrator/Desktop/Day2_lab2_code coverage/sandwitch_tb.v
+L0 1
+R17
+r1
+31
+R19
+R18
+Z26 !s100 DZb8;7MiPHe;_NMzTMHgT2
+!s85 0

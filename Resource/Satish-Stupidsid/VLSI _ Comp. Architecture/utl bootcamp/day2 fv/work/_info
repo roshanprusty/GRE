@@ -1,0 +1,155 @@
+m255
+K3
+13
+cModel Technology
+dD:\
+T_opt
+Z0 V@b<PDoD?Al9]]Gi58LSg^3
+Z1 04 3 4 work top fast 0
+Z2 =1-bc5ff4668e00-5174423d-1a4-a0c
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 OE;O;6.4c;39
+T_opt1
+Z5 VT3JAJ19J82[mcYYIS83_W0
+Z6 04 10 4 work comparator fast 0
+Z7 04 7 4 work counter fast 0
+Z8 04 13 4 work counter_behav fast 0
+Z9 04 10 4 work counter_tb fast 0
+Z10 04 4 4 work stim fast 0
+Z11 04 4 4 work t_ff fast 0
+Z12 04 7 4 work t_ff_tb fast 0
+R1
+Z13 =1-bc5ff4668e00-51744244-3cb-8c8
+R3
+R4
+T_opt2
+VcXQ6@XmATmFE_V:A1KIWG1
+R6
+R7
+R8
+R10
+R11
+R1
+Z14 =1-bc5ff4668e00-5174427f-41-5c4
+R3
+R4
+vcomparator
+Z15 IQCGgQ<LiEGm0GKSkh3K8c0
+Z16 VbXORab^?m?WaIjZa9><z<0
+Z17 dC:\Users\Administrator\Desktop
+Z18 w1366571158
+Z19 8C:/Users/Administrator/Desktop/comparator.v
+Z20 FC:/Users/Administrator/Desktop/comparator.v
+L0 1
+Z21 OE;L;6.4c;39
+r1
+31
+Z22 !s102 -nocovercells
+Z23 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z24 !s100 >[Q[9>J;^82<Z3b2nGSX71
+!s85 0
+vcounter
+Z25 Ik22i6m1ecRh`<@:JhNCIl3
+Z26 VUH>J044kiOEa8OR0P013?3
+R17
+Z27 w1366570195
+Z28 8C:/Users/Administrator/Desktop/counter .v
+Z29 FC:/Users/Administrator/Desktop/counter .v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z30 !s100 K@]9LD3l@F34B7zWCjBKR0
+!s85 0
+vcounter_behav
+Z31 Ie<fS@1oG<1ezVdi?VgBK_1
+Z32 VXn<4mzFN6kT6:S1z8;gI@0
+R17
+Z33 w1366570709
+Z34 8C:/Users/Administrator/Desktop/count_behav.v
+Z35 FC:/Users/Administrator/Desktop/count_behav.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z36 !s100 X30PN?JNA><l>:OOAI9PF3
+!s85 0
+vcounter_tb
+Z37 I;mJEQfl[T[]L8SJj0akll1
+Z38 VN6X[[7nWg]oz4[ZCKXDXe0
+R17
+Z39 w1366570071
+Z40 8C:/Users/Administrator/Desktop/counter_tb.v
+Z41 FC:/Users/Administrator/Desktop/counter_tb.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z42 !s100 aFa@oimfg60BB>`UIe;]l3
+!s85 0
+vstim
+Z43 IjXz=3IjAQL:M51jYZ5Lkf0
+Z44 V9AeT5ZzTD:;d3BL>[UAaC0
+R17
+Z45 w1366572019
+Z46 8C:/Users/Administrator/Desktop/stim_gen.v
+Z47 FC:/Users/Administrator/Desktop/stim_gen.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z48 !s100 oXhN68Jm;]cL2iC_fm8?C2
+!s85 0
+vt_ff
+Z49 IToU:189CH6=E<P>JML_U<1
+Z50 V0Wk[A9:K[]d4`UYj]fVN22
+R17
+Z51 w1366568582
+Z52 8C:/Users/Administrator/Desktop/t_ff.v
+Z53 FC:/Users/Administrator/Desktop/t_ff.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z54 !s100 KSLgzQ:09bN3[?KZ1_XNF2
+!s85 0
+vt_ff_tb
+Z55 I<d5fR_JgjaY]E0=nDH?3O0
+Z56 VJS>KL0Y<VX4MUaiJ^4Pn`2
+R17
+Z57 w1366569154
+Z58 8C:/Users/Administrator/Desktop/t_ff_tb.v
+Z59 FC:/Users/Administrator/Desktop/t_ff_tb.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z60 !s100 :NHK9XcfTX;ld_7[WZ5^Q2
+!s85 0
+vtop
+Z61 I2A6G2@8QaVk3eb7>:Y_YF3
+Z62 VXN9UB@zYTikzQb[kj_>=<3
+R17
+Z63 w1366573622
+Z64 8C:/Users/Administrator/Desktop/top.v
+Z65 FC:/Users/Administrator/Desktop/top.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z66 !s100 D@0KWD9ElEZAg=73;bMi83
+!s85 0

@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\questasim_6.4c\examples
+T_opt
+Z1 V_U><0fQa4O45cB`5jV6?P1
+Z2 04 9 4 work sandwitch fast 0
+Z3 =1-bc5ff4668e00-517453c3-110-a24
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 OE;O;6.4c;39
+vsandwitch
+Z6 IMTAbgc?AfhQ4NgOVkjaNm2
+Z7 VYg;O]zoLJ>:7Kkd5;L8]_1
+Z8 dC:\Users\Administrator\Desktop
+Z9 w1366578017
+Z10 8C:/Users/Administrator/Desktop/AFNN.v
+Z11 FC:/Users/Administrator/Desktop/AFNN.v
+L0 1
+Z12 OE;L;6.4c;39
+r1
+31
+Z13 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z14 !s100 TJ4QO7W`i^VVXz>dK?lJn3
+!s85 0
+Z15 !s102 -nocovercells

@@ -1,0 +1,18 @@
+module stim (clk,reset,t);
+  output reg clk,reset,t;
+    initial 
+    begin
+      clk =0; reset =1; t=0;
+    end
+    
+      always
+      #10 clk =~clk;
+      
+      initial 
+      begin
+      #10 t=1; 
+      #10 t=0; reset=0;
+      #20 t=1; reset=1;
+      #5 t=0; reset=0;
+    end
+  endmodule

@@ -1,0 +1,9 @@
+module top(out);
+  output reg out;
+  wire w,x
+  wire [2:0] p,z;
+  stim b1(w,x);
+  counter b2(w,x,p);
+  counter_behav b3(w,x,z);
+  comparator b4(p,z,out);
+endmodule 

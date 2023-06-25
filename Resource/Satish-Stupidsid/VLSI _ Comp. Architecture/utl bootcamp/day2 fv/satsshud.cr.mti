@@ -1,0 +1,57 @@
+C:/Users/Administrator/Desktop/stim_gen.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/stim_gen.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module stim
+
+Top level modules:
+	stim
+
+} {} {}} C:/Users/Administrator/Desktop/count_behav.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/count_behav.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module counter_behav
+
+Top level modules:
+	counter_behav
+
+} {} {}} C:/Users/Administrator/Desktop/top.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/top.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Administrator/Desktop/t_ff.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/t_ff.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module t_ff
+
+Top level modules:
+	t_ff
+
+} {} {}} C:/Users/Administrator/Desktop/comparator.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/comparator.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} {C:/Users/Administrator/Desktop/counter .v} {1 {vlog -work work -vopt -nocovercells {C:/Users/Administrator/Desktop/counter .v}
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Administrator/Desktop/t_ff_tb.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/t_ff_tb.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module t_ff_tb
+
+Top level modules:
+	t_ff_tb
+
+} {} {}} C:/Users/Administrator/Desktop/counter_tb.v {1 {vlog -work work -vopt -nocovercells C:/Users/Administrator/Desktop/counter_tb.v
+QuestaSim vlog 6.4c Compiler 2008.12 Dec  8 2008
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}}
